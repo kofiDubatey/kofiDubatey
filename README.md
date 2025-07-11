@@ -19,18 +19,17 @@ Designed an Arduino-based assistive device to enhance mobility and navigation fo
 Developed an automated Transcutaneous Electrical Nerve Stimulation (TENS) system aimed at improving pain management in hospitals.
 
 
-- 👀 I’m interested in BIOINFORMATICS, DATA analysis, MACHINE LEARNING, AND NANOTECHNOLOGY
-- 🌱 I’m currently learning in the UNIVERSITY OF GHANA, LEGON
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on
+-  I’m interested in BIOINFORMATICS, DATA analysis, MACHINE LEARNING, AND NANOTECHNOLOGY
+-  I’m currently learning in the UNIVERSITY OF GHANA, LEGON
+-  I’m looking to collaborate on ...
+-  How to reach me on
 - 1. https://www.linkedin.com/in/emmanuel-dugbatey-kofi-95867024b/
   2. dugbateykofiemmanuel@gmail.com
   3. Phone number: +233 597557616
 
 
      
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 kofiDubatey/kofiDubatey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
